@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resources/hoho.md",
+                "file": "hihi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hoho"
+              "title": "hihi"
             }
           }
         ]
@@ -166,14 +166,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "075366e669e565dd",
+  "active": "d1b44b20704b7ce8",
   "lastOpenFiles": [
-    "resources/huhu.md",
+    "huahua",
     "resources/hoho.md",
+    "hihi.md",
+    "hohe",
+    "haha.md",
+    "resources/huhu.md",
     "resources/New Text Document.txt",
     "resources",
     "New folder",
-    "haha.md",
     "New Text Document.txt"
   ]
 }
